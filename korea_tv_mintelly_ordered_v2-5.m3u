@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KBS1.kr" group-title="KBS",KBS1
+http://koreatv.dothome.co.kr/kbs1.php
+#EXTINF:-1 tvg-id="KBS2.kr" group-title="KBS",KBS2
+http://koreatv.dothome.co.kr/kbs2.php
+#EXTINF:-1 tvg-id="SBSBusan.kr" group-title="지역방송",SBS 부산
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-id="MBC.kr" group-title="지상파",MBC 부산
+http://koreatv.dothome.co.kr/mbc.php
+#EXTINF:-1 tvg-id="EBS1.kr" group-title="지상파",EBS1
+https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="EBS2.kr" group-title="EBS",EBS2
+https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSLife.kr" group-title="KBS N",KBS life
+http://koreatv.dothome.co.kr/kbslife.php
+#EXTINF:-1 tvg-id="KBSStory.kr" group-title="KBS N",KBS story
+http://koreatv.dothome.co.kr/kbsstory.php
+#EXTINF:-1 tvg-id="KBSKids.kr" group-title="KBS N",KBS kids
+http://koreatv.dothome.co.kr/kbskids.php
