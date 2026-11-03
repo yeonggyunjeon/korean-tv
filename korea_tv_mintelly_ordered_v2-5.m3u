@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KBS1.kr" group-title="KBS",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" 그룹-title="KBS",KBS1
 http://koreatv.dothome.co.kr/kbs1.php
-#EXTINF:-1 tvg-id="KBS2.kr" group-title="KBS",KBS2
+#EXTINF:-1 tvg-id="KBS2.kr" 그룹-title="KBS",KBS2
 http://koreatv.dothome.co.kr/kbs2.php
-#EXTINF:-1 tvg-id="SBSBusan.kr" group-title="지역방송",SBS 부산
+#EXTINF:-1 tvg-id="SBSBusan.kr" 그룹-title="지역방송",SBS 부산.
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="MBC.kr" group-title="지상파",MBC 부산
 http://koreatv.dothome.co.kr/mbc.php
@@ -13,13 +13,13 @@ http://koreatv.dothome.co.kr/mbcnet.php
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2.kr" group-title="EBS",EBS2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-name="EBS Plus 1 Ⓢ" group-title="교육/기타",EBS Plus 1 Ⓢ
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-name="EBS Plus1 "그룹-타이틀="교육/기하기",EBS Plus1 
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2 Ⓢ" group-title="교육/기타",EBS Plus 2 Ⓢ
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2 "그룹-타이틀="교육/기하기",EBS Plus 2 
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English Ⓢ" group-title="교육/기타",EBS English Ⓢ
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS 영어 "group-title="교육/기하기",EBS 영어 
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids Ⓢ" group-title="교육/기타",EBS Kids Ⓢ
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids "Gr 그룹 타이틀="교육/기수",EBS Kids 
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="KBSLife.kr" group-title="KBS N",KBS life
 http://koreatv.dothome.co.kr/kbslife.php
