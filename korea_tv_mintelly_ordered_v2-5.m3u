@@ -1,257 +1,257 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KBS1.kr" 그룹-title="KBS",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS1.png",KBS1
 http://koreatv.dothome.co.kr/kbs1.php
-#EXTINF:-1 tvg-id="KBS2.kr" 그룹-title="KBS",KBS2
+#EXTINF:-1 tvg-id="KBS2.kr" tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS2.png",KBS2
 http://koreatv.dothome.co.kr/kbs2.php
-#EXTINF:-1 tvg-id="SBSBusan.kr" 그룹-title="지역방송",SBS 부산.
+#EXTINF:-1 tvg-id="SBSBusan.kr",SBS 부산
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-id="MBC.kr" group-title="지상파",MBC 부산
+#EXTINF:-1 tvg-id="MBC.kr",MBC 부산
 http://koreatv.dothome.co.kr/mbc.php
-#EXTINF:-1 tvg-id="MBCnet.kr" group-title="지상파",MBCnet 부산
+#EXTINF:-1 tvg-id="MBCnet.kr",MBCnet 부산
 http://koreatv.dothome.co.kr/mbcnet.php
-#EXTINF:-1 tvg-id="EBS1.kr" group-title="지상파",EBS1
+#EXTINF:-1 tvg-id="EBS1.kr" tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/EBS1.png",EBS1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBS2.kr" group-title="EBS",EBS2
+#EXTINF:-1 tvg-id="EBS2.kr" tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/EBS2.png",EBS2
 https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-name="EBS Plus1 "그룹-타이틀="교육/기하기",EBS Plus1 
+#EXTINF:-1 tvg-id="EBSPlus1.kr" tvg-name="EBS Plus 1 " tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/EBS_Plus_1.png",EBS Plus 1 
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2 "그룹-타이틀="교육/기하기",EBS Plus 2 
+#EXTINF:-1 tvg-id="EBSPlus2.kr" tvg-name="EBS Plus 2 " tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/EBS_Plus_2.png",EBS Plus 2 
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS 영어 "group-title="교육/기하기",EBS 영어 
+#EXTINF:-1 tvg-id="EBSEnglish.kr" tvg-name="EBS English " tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/EBS_English.png",EBS English 
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids "Gr 그룹 타이틀="교육/기수",EBS Kids 
+#EXTINF:-1 tvg-id="EBSKids.kr" tvg-name="EBS Kids " tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/EBS_Kids.png",EBS Kids 
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-#EXTINF:-1 tvg-id="KBSLife.kr" group-title="KBS N",KBS life
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_life.png",KBS life
 http://koreatv.dothome.co.kr/kbslife.php
-#EXTINF:-1 tvg-id="KBSStory.kr" group-title="KBS N",KBS story
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_story.png",KBS story
 http://koreatv.dothome.co.kr/kbsstory.php
-#EXTINF:-1 tvg-id="KBSworld.kr" group-title="KBS N",KBS world
+#EXTINF:-1 tvg-id="KBSworld.kr" tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_world.png",KBS world
 http://koreatv.dothome.co.kr/kbsworld.php
-#EXTINF:-1 tvg-id="KBSnews.kr" group-title="KBS N",KBS news
+#EXTINF:-1 tvg-id="KBSnews.kr" tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_news.png",KBS news
 http://koreatv.dothome.co.kr/kbsnews.php
-#EXTINF:-1 tvg-id="KBSKids.kr" group-title="KBS N",KBS kids
+#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_kids.png",KBS kids
 http://koreatv.dothome.co.kr/kbskids.php
-#EXTINF:-1,STN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/STN.png",STN
 https://jmp2.uk/stvp-KR1300003KW
-#EXTINF:-1,TV조선
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TV조선.png",TV조선
 https://jmp2.uk/stvp-KR3700002JT
-#EXTINF:-1,YTN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/YTN.png",YTN
 https://jmp2.uk/stvp-KRBD2400001XD
-#EXTINF:-1,연합뉴스
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/연합뉴스.png",연합뉴스
 https://jmp2.uk/stvp-KRBD1400001ED
-#EXTINF:-1,KBS뉴스24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS뉴스24.png",KBS뉴스24
 https://jmp2.uk/stvp-KR5100001TH
-#EXTINF:-1,서울경제TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/서울경제TV.png",서울경제TV
 https://jmp2.uk/stvp-KR7000044K
-#EXTINF:-1,MBN뉴스
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/MBN뉴스.png",MBN뉴스
 https://jmp2.uk/stvp-KRBC4000003J2
-#EXTINF:-1,글로벌뉴스
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/글로벌뉴스.png",글로벌뉴스
 https://jmp2.uk/stvp-KRBD3100006X4
-#EXTINF:-1,TVN 언니네산지직송
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_언니네산지직송.png",TVN 언니네산지직송
 https://jmp2.uk/stvp-KR700006WZ
-#EXTINF:-1,채널A 도시어부
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/채널A_도시어부.png",채널A 도시어부
 https://jmp2.uk/stvp-KRBC4100001LY
-#EXTINF:-1,지구마블 세계여행
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/지구마블_세계여행.png",지구마블 세계여행
 https://jmp2.uk/stvp-KR400049VH
-#EXTINF:-1,쯔양
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/쯔양.png",쯔양
 https://jmp2.uk/stvp-KR5000002QW
-#EXTINF:-1,TVN 서진이네
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_서진이네.png",TVN 서진이네
 https://jmp2.uk/stvp-KRBC3200025QG
-#EXTINF:-1,TVN 삼시세끼 어촌편
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_삼시세끼_어촌편.png",TVN 삼시세끼 어촌편
 https://jmp2.uk/stvp-KRBC32000156C
-#EXTINF:-1,JTBC 트래블러
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_트래블러.png",JTBC 트래블러
 https://jmp2.uk/stvp-KR40000410
-#EXTINF:-1,채널십오야
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/채널십오야.png",채널십오야
 https://jmp2.uk/stvp-KRBC3200018FU
-#EXTINF:-1,TVN 지구오락실
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_지구오락실.png",TVN 지구오락실
 https://jmp2.uk/stvp-KRBC3200032ZM
-#EXTINF:-1,빠니보틀
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/빠니보틀.png",빠니보틀
 https://jmp2.uk/stvp-KR140000508
-#EXTINF:-1,KBS 1박2일
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_1박2일.png",KBS 1박2일
 https://jmp2.uk/stvp-KRBC4400003SD
-#EXTINF:-1,조조캠핑
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/조조캠핑.png",조조캠핑
 https://jmp2.uk/stvp-KR3200005TI
-#EXTINF:-1,곽튜브
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/곽튜브.png",곽튜브
 https://jmp2.uk/stvp-KR2200008I8
-#EXTINF:-1,TVN 삼시세끼 고창편
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_삼시세끼_고창편.png",TVN 삼시세끼 고창편
 https://jmp2.uk/stvp-KRBC3200030BO
-#EXTINF:-1,TVN 신서유기
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_신서유기.png",TVN 신서유기
 https://jmp2.uk/stvp-KRBC32000248R
-#EXTINF:-1,TVN 대탈출 전 시즌
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_대탈출_전_시즌.png",TVN 대탈출 전 시즌
 https://jmp2.uk/stvp-KRBC800016YS
-#EXTINF:-1,맛있는 녀석들
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/맛있는_녀석들.png",맛있는 녀석들
 https://jmp2.uk/stvp-KRBC3200007D1
-#EXTINF:-1,TVN 식스센스 시티투어
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_식스센스_시티투어.png",TVN 식스센스 시티투어
 https://jmp2.uk/stvp-KRBC3200028P2
-#EXTINF:-1,자취남
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/자취남.png",자취남
 https://jmp2.uk/stvp-KR16000047N
-#EXTINF:-1,TVN 이호선 상담소
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_이호선_상담소.png",TVN 이호선 상담소
 https://jmp2.uk/stvp-KRBD3100002JL
-#EXTINF:-1,TV조선 미스트롯4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TV조선_미스트롯4.png",TV조선 미스트롯4
 https://jmp2.uk/stvp-KRBD2700002IV
-#EXTINF:-1,용감한 형사들
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/용감한_형사들.png",용감한 형사들
 https://jmp2.uk/stvp-KRBC3500015BN
-#EXTINF:-1,TVN 스트리트 푸드 파이터
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_스트리트_푸드_파이터.png",TVN 스트리트 푸드 파이터
 https://jmp2.uk/stvp-KRBC3200029C4
-#EXTINF:-1,TVN 스트릿 레스토랑 파이터
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_스트릿_레스토랑_파이터.png",TVN 스트릿 레스토랑 파이터
 https://jmp2.uk/stvp-KRBC8000128W
-#EXTINF:-1,TVN 김창옥쇼
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_김창옥쇼.png",TVN 김창옥쇼
 https://jmp2.uk/stvp-KRBC320002200
-#EXTINF:-1,KBS 개그콘서트
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_개그콘서트.png",KBS 개그콘서트
 https://jmp2.uk/stvp-KR700003L9
-#EXTINF:-1,Mnet 스트릿 월드 파이터
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/Mnet_스트릿_월드_파이터.png",Mnet 스트릿 월드 파이터
 https://jmp2.uk/stvp-KRBC8000144F
-#EXTINF:-1,TV조선 사랑의 콜센타
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TV조선_사랑의_콜센타.png",TV조선 사랑의 콜센타
 https://jmp2.uk/stvp-KRBD27000069Q
-#EXTINF:-1,JTBC 냉장고를 부탁해
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_냉장고를_부탁해.png",JTBC 냉장고를 부탁해
 https://jmp2.uk/stvp-KR400006MW
-#EXTINF:-1,JTBC 내친구의 집은 어디인가
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_내친구의_집은_어디인가.png",JTBC 내친구의 집은 어디인가
 https://jmp2.uk/stvp-KRBD5200001G8
-#EXTINF:-1,TVN 놀라운 토요일
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_놀라운_토요일.png",TVN 놀라운 토요일
 https://jmp2.uk/stvp-KRBC32000261J
-#EXTINF:-1,KBS HOT CLIP 예능
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_HOT_CLIP_예능.png",KBS HOT CLIP 예능
 https://jmp2.uk/stvp-KR45000060I
-#EXTINF:-1,KBS 연애의 참견
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_연애의_참견.png",KBS 연애의 참견
 https://jmp2.uk/stvp-KRBC4000005EP
-#EXTINF:-1,MBC 한국은 처음이지?
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/MBC_한국은_처음이지.png",MBC 한국은 처음이지?
 https://jmp2.uk/stvp-KRBB500034DY
-#EXTINF:-1,TV CHOSUN 백반기행
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TV_CHOSUN_백반기행.png",TV CHOSUN 백반기행
 https://jmp2.uk/stvp-KRBC3200008M6
-#EXTINF:-1,유병재
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/유병재.png",유병재
 https://jmp2.uk/stvp-KR1400009B8
-#EXTINF:-1,VIVO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/VIVO_TV.png",VIVO TV
 https://jmp2.uk/stvp-KR1800002Q7
-#EXTINF:-1,JTBC 한끼줍쇼
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_한끼줍쇼.png",JTBC 한끼줍쇼
 https://jmp2.uk/stvp-KR400005KB
-#EXTINF:-1,IHQ 돈쭐내러 왔습니다
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/IHQ_돈쭐내러_왔습니다.png",IHQ 돈쭐내러 왔습니다
 https://jmp2.uk/stvp-KRBC4000002ME
-#EXTINF:-1,채널A 이제 만나러 갑니다
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/채널A_이제_만나러_갑니다.png",채널A 이제 만나러 갑니다
 https://jmp2.uk/stvp-KRBC4100005N5
-#EXTINF:-1,바오 패밀리
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/바오_패밀리.png",바오 패밀리
 https://jmp2.uk/stvp-KR2900001RN
-#EXTINF:-1,MBN 동치미
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/MBN_동치미.png",MBN 동치미
 https://jmp2.uk/stvp-KRBC3500019CD
-#EXTINF:-1,E채널 토요일은 밥이좋아
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/E채널_토요일은_밥이좋아.png",E채널 토요일은 밥이좋아
 https://jmp2.uk/stvp-KRBC4100008Z6
-#EXTINF:-1,살롱드립
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/살롱드립.png",살롱드립
 https://jmp2.uk/stvp-KR4100001LW
-#EXTINF:-1,KBS 무엇이든 물어보살
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_무엇이든_물어보살.png",KBS 무엇이든 물어보살
 https://jmp2.uk/stvp-KRBC3200009M7
-#EXTINF:-1,TV조선 생존왕
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TV조선_생존왕.png",TV조선 생존왕
 https://jmp2.uk/stvp-KRBD2700001QR
-#EXTINF:-1,TVN STORY
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_STORY.png",TVN STORY
 https://jmp2.uk/stvp-KRBC3200014XZ
-#EXTINF:-1,Mr. Bean
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/Mr_Bean.png",Mr. Bean
 https://jmp2.uk/stvp-KR2400001TI
-#EXTINF:-1,코난 오브라이언 쇼
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/코난_오브라이언_쇼.png",코난 오브라이언 쇼
 https://jmp2.uk/stvp-KR3200003RR
-#EXTINF:-1,JTBC 무자식 상팔자
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_무자식_상팔자.png",JTBC 무자식 상팔자
 https://jmp2.uk/stvp-KR400003IP
-#EXTINF:-1,TVN 언젠가는 슬기로운 전공의생활
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_언젠가는_슬기로운_전공의생활.png",TVN 언젠가는 슬기로운 전공의생활
 https://jmp2.uk/stvp-KRBC3200016H1
-#EXTINF:-1,TVN 응답하라 몰아보기
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_응답하라_몰아보기.png",TVN 응답하라 몰아보기
 https://jmp2.uk/stvp-KRBC3200013UR
-#EXTINF:-1,TVN 폭군의 셰프
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_폭군의_셰프.png",TVN 폭군의 셰프
 https://jmp2.uk/stvp-KRBC4500002Q4
-#EXTINF:-1,TVN 슬기로운 의사생활
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_슬기로운_의사생활.png",TVN 슬기로운 의사생활
 https://jmp2.uk/stvp-KRBC4500003W6
-#EXTINF:-1,KBS 오월의 청춘
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_오월의_청춘.png",KBS 오월의 청춘
 https://jmp2.uk/stvp-KR7000023Z
-#EXTINF:-1,KBS 최고다 이순신
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_최고다_이순신.png",KBS 최고다 이순신
 https://jmp2.uk/stvp-KRBC4400002AO
-#EXTINF:-1,KBS 신사와 아가씨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_신사와_아가씨.png",KBS 신사와 아가씨
 https://jmp2.uk/stvp-KRBC4400001TZ
-#EXTINF:-1,KBS 태조 왕건
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/KBS_태조_왕건.png",KBS 태조 왕건
 https://jmp2.uk/stvp-KR4600012CR
-#EXTINF:-1,신병3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/신병3.png",신병3
 https://jmp2.uk/stvp-KR2000007LI
 #EXTINF:-1,신병1,2
 https://jmp2.uk/stvp-KR1200002QR
-#EXTINF:-1,고독한 미식가
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/고독한_미식가.png",고독한 미식가
 https://jmp2.uk/stvp-KRBC3500014ZH
-#EXTINF:-1,나의 해리에게
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/나의_해리에게.png",나의 해리에게
 https://jmp2.uk/stvp-KR2000010K7
-#EXTINF:-1,JTBC 보좌관
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_보좌관.png",JTBC 보좌관
 https://jmp2.uk/stvp-KR4000020F
-#EXTINF:-1,행복배틀
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/행복배틀.png",행복배틀
 https://jmp2.uk/stvp-KR200000503
-#EXTINF:-1,유어아너
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/유어아너.png",유어아너
 https://jmp2.uk/stvp-KR2000011GA
-#EXTINF:-1,MBC 별순검
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/MBC_별순검.png",MBC 별순검
 https://jmp2.uk/stvp-KRBB500037T3
-#EXTINF:-1,야한 사진관
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/야한_사진관.png",야한 사진관
 https://jmp2.uk/stvp-KR2000008LX
-#EXTINF:-1,TVN 견우와 선녀
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_견우와_선녀.png",TVN 견우와 선녀
 https://jmp2.uk/stvp-KRBC800013YF
-#EXTINF:-1,TVN 인급동
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_인급동.png",TVN 인급동
 https://jmp2.uk/stvp-KRBC3200031KO
-#EXTINF:-1,마당이 있는집
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/마당이_있는집.png",마당이 있는집
 https://jmp2.uk/stvp-KR2000006NC
-#EXTINF:-1,TV조선 나의 해피엔드
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TV조선_나의_해피엔드.png",TV조선 나의 해피엔드
 https://jmp2.uk/stvp-KRBC35000169K
-#EXTINF:-1,구필수는 없다
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/구필수는_없다.png",구필수는 없다
 https://jmp2.uk/stvp-KR2000004DJ
-#EXTINF:-1,낮에 뜨는 달
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/낮에_뜨는_달.png",낮에 뜨는 달
 https://jmp2.uk/stvp-KR2000009EC
-#EXTINF:-1,라이딩 인생
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/라이딩_인생.png",라이딩 인생
 https://jmp2.uk/stvp-KR2000003T6
-#EXTINF:-1,짱구는 못말려
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/짱구는_못말려.png",짱구는 못말려
 https://jmp2.uk/stvp-KR10000017U
-#EXTINF:-1,핑크퐁 베베핀
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/핑크퐁_베베핀.png",핑크퐁 베베핀
 https://jmp2.uk/stvp-KRBC3500020AF
-#EXTINF:-1,명탐정 코난(자막)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/명탐정_코난_자막.png",명탐정 코난(자막)
 https://jmp2.uk/stvp-KRBC32000200B
-#EXTINF:-1,요리왕 비룡
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/요리왕_비룡.png",요리왕 비룡
 https://jmp2.uk/stvp-KRBC3200001VC
-#EXTINF:-1,흔한남매 안흔한일기
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/흔한남매_안흔한일기.png",흔한남매 안흔한일기
 https://jmp2.uk/stvp-KRBC3200017JQ
-#EXTINF:-1,핑크퐁
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/핑크퐁.png",핑크퐁
 https://jmp2.uk/stvp-KRBC32000126M
-#EXTINF:-1,로보카 폴리
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/로보카_폴리.png",로보카 폴리
 https://jmp2.uk/stvp-KRBC3500013VH
-#EXTINF:-1,뽀요TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/뽀요TV.png",뽀요TV
 https://jmp2.uk/stvp-KR900001U5
-#EXTINF:-1,코코비TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/코코비TV.png",코코비TV
 https://jmp2.uk/stvp-KRBB500035VF
-#EXTINF:-1,TVN 벌거벗은 세계사
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_벌거벗은_세계사.png",TVN 벌거벗은 세계사
 https://jmp2.uk/stvp-KRBC3200021ZA
-#EXTINF:-1,EBS 극한직업
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/EBS_극한직업.png",EBS 극한직업
 https://jmp2.uk/stvp-KRBC40000010R
-#EXTINF:-1,MBN 나는 자연인이다
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/MBN_나는_자연인이다.png",MBN 나는 자연인이다
 https://jmp2.uk/stvp-KRBC3500017PO
-#EXTINF:-1,JTBC 차이나스 클라스
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_차이나스_클라스.png",JTBC 차이나스 클라스
 https://jmp2.uk/stvp-KRBD4300003MW
-#EXTINF:-1,MBN 사노라면
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/MBN_사노라면.png",MBN 사노라면
 https://jmp2.uk/stvp-KRBC3500018J9
-#EXTINF:-1,OGN 스타리그
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/OGN_스타리그.png",OGN 스타리그
 https://jmp2.uk/stvp-KRBC3200005SH
-#EXTINF:-1,K-STAR GOLF
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/K-STAR_GOLF.png",K-STAR GOLF
 https://jmp2.uk/stvp-KRBB5000364M
-#EXTINF:-1,TVN SPORTS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/TVN_SPORTS.png",TVN SPORTS
 https://jmp2.uk/stvp-KRBC800015MH
-#EXTINF:-1,JTBC 골프
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_골프.png",JTBC 골프
 https://jmp2.uk/stvp-KRBD5200002XY
-#EXTINF:-1,요가소년
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/요가소년.png",요가소년
 https://jmp2.uk/stvp-KR39000030H
-#EXTINF:-1,힙으뜸
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/힙으뜸.png",힙으뜸
 https://jmp2.uk/stvp-KR260000274
-#EXTINF:-1,스크린콜프존
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/스크린콜프존.png",스크린콜프존
 https://jmp2.uk/stvp-KR44000010Y
-#EXTINF:-1,GENIE 어워드 특집
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/GENIE_어워드_특집.png",GENIE 어워드 특집
 https://jmp2.uk/stvp-KR2000012AI
-#EXTINF:-1,CJ ENM MOVIE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/CJ_ENM_MOVIE.png",CJ ENM MOVIE
 https://jmp2.uk/stvp-KRBC32000191N
-#EXTINF:-1,GENIE MOVIE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/GENIE_MOVIE.png",GENIE MOVIE
 https://jmp2.uk/stvp-KR12000017G
-#EXTINF:-1,MDSSPHERE MOVIE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/MDSSPHERE_MOVIE.png",MDSSPHERE MOVIE
 https://jmp2.uk/stvp-KRBC3200004D1
-#EXTINF:-1,씨네21+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/씨네21.png",씨네21+
 https://jmp2.uk/stvp-KRBD26000011V
-#EXTINF:-1,JTBC 비긴어게인
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_비긴어게인.png",JTBC 비긴어게인
 https://jmp2.uk/stvp-KRBD43000023M
-#EXTINF:-1,M2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/M2.png",M2
 https://jmp2.uk/stvp-KRBC3200023BG
-#EXTINF:-1,JTBC 슈퍼밴드
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/yeonggyunjeon/korean-tv/main/kodi_logos/JTBC_슈퍼밴드.png",JTBC 슈퍼밴드
 https://jmp2.uk/stvp-KRBD5200003O2
 #EXTINF:-1,KBS HOT CLIP 뮤직
 https://jmp2.uk/stvp-KR45000052W
