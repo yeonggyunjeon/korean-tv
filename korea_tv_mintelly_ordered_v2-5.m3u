@@ -5,10 +5,16 @@ http://koreatv.dothome.co.kr/kbs1.php
 http://koreatv.dothome.co.kr/kbs2.php
 #EXTINF:-1 tvg-id="KNN TV(SBS부산).kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/500px-KNN_logo.svg.png",KNN TV(SBS부산)
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
+#EXTINF:-1 tvg-name="SBS스포츠" tvg-logo="https://backup.760515.xyz/logo/SBS스포츠.png",SBS스포츠
+https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM5MjMyMTgsInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzNGRlZmMzNy1jNjRmLTQ3NjktODc0YS1iNDhjODEyZjM3NjgiLCJpYXQiOjE3OTM5MTYwMTh9.3q3GYAv-kARm2NNT-cumsI4fF8fALJq6R-DVVEUeKtU
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Munhwa_Broadcasting_Corporation.svg/500px-Munhwa_Broadcasting_Corporation.svg.png",MBC TV
 http://koreatv.dothome.co.kr/mbc.php
-#EXTINF:-1 tvg-id="MBCnet.kr",MBCnet 부산
-http://koreatv.dothome.co.kr/mbcnet.php
+#EXTINF:-1 tvg-name="MBCNET" tvg-logo="https://backup.760515.xyz/logo/MBCNET.png",MBCNET
+http://koreatv.dothome.co.kr/mbcnet.php?_lsu_sa_=65812E18F38135D4744115503F916844250D3B855404C2EB31305Ba596193A7610a013C13AA2504710C33C3154bC51E78230E7B2276163CDD6B09A011B5BFEEEC50B0031FFA812B936F98056E172B0FE098C1D948A1A5C776385C66CED6C6D3B6A5EF0EBFB604847D2B031AF606378346CFD2B4B5B09682F16A79FB56008B7B9&v=3
+#EXTINF:-1 tvg-name="MBC드라마넷" tvg-logo="https://backup.760515.xyz/logo/MBC드라마넷.png",MBC드라마넷
+https://dramaottsd.imbc.com/plus_drama_sd/_definst_/drama_sd.stream/chunklist.m3u8?_lsu_sa_=6351EB1573DD39C44A48759A3381304085863EE54A09225338703BaB062F3F9688a073C236A24B4470503D1170b6516D0EC6EB897249B9CFAEF7E23F501212F2C8C2E3D170C572A3A0646105C2083F5BC234BE3DA7D8EDA702C95A321DF57D5B99A6F37005F89DEEDC4357C9C2487CE8A43F240BD994FC2D6B4057619CE1F45C&v=3
+#EXTINF:-1 tvg-name="MBC M" tvg-logo="https://backup.760515.xyz/logo/MBC M.png",MBC M
+https://mbcmottsd.imbc.com/plus_mbcm_sd/_definst_/mbcm_sd.stream/chunklist.m3u8?_lsu_sa_=6AB1F11B53D93DD4F04405D335C10F42856839659F0502BB3310C1a596D43176FFaA83943C32354840AF38C166b261FABE0ED9BC4C5460A2E8E6BD818FE2B129433909C8A9D943ACD92CBC1B6232ED26D4C6983F5AA68ECEC3731A50F6D0499F80DFF2894098C0E14F1FCFEB0B7D3169&v=3
 #EXTINF:-1 tvg-id="EBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EBS_1TV_Logo.svg/500px-EBS_1TV_Logo.svg.png",EBS 1
 https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/500px-EBS_2TV_Logo.svg.png",EBS 2
@@ -31,6 +37,99 @@ http://koreatv.dothome.co.kr/kbsworld.php?id=3
 http://koreatv.dothome.co.kr/kbsnews.php
 #EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/500px-KBS_kids.svg.png",KBS Kids
 http://koreatv.dothome.co.kr/kbskids.php?id=9
+#EXTINF:-1 tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png",YTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/YTN-playlist.m3u8
+#EXTINF:-1 tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png",YTN2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/YTN2-playlist.m3u8
+#EXTINF:-1 tvg-name="YTN사이언스" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png",YTN사이언스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/YTN%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4-playlist.m3u8
+#EXTINF:-1 tvg-name="연합뉴스TV" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png",연합뉴스TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%EC%97%B0%ED%95%A9%EB%89%B4%EC%8A%A4TV-playlist.m3u8
+#EXTINF:-1 tvg-name="JTBC" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png",JTBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
+#EXTINF:-1 tvg-name="JTBC2" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png",JTBC2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
+#EXTINF:-1 tvg-name="JTBC4" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png",JTBC4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/JTBC4-playlist.m3u8
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png",tvN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/tvN-playlist.m3u8
+#EXTINF:-1 tvg-name="tvN 쇼" tvg-logo="https://pjytv.760515.xyz/logo/tvNSHOW.png",tvN 쇼
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/tvN%20SHOW-playlist.m3u8
+#EXTINF:-1 tvg-name="tvN 드라마" tvg-logo="https://pjytv.760515.xyz/logo/tvNDRAMA.png",tvN 드라마
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/tvN%20DRAMA-playlist.m3u8
+#EXTINF:-1 tvg-name="tvN 스토리" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png",tvN 스토리
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/tvN%20STORY-playlist.m3u8
+#EXTINF:-1 tvg-name="채널A" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png",채널A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A-playlist.m3u8
+#EXTINF:-1 tvg-name="채널A플러스" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png",채널A플러스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%EC%B1%84%EB%84%90A%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
+#EXTINF:-1 tvg-name="TV 조선" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png",TV 조선
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/TV%20CHOSUN-playlist.m3u8
+#EXTINF:-1 tvg-name="TV 조선 2" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png",TV 조선 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/TV%20CHOSUN%202-playlist.m3u8
+#EXTINF:-1 tvg-name="엠넷" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png",엠넷
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/Mnet-playlist.m3u8
+#EXTINF:-1 tvg-name="MBN" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png",MBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/MBN-playlist.m3u8
+#EXTINF:-1 tvg-name="MBN 플러스" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png",MBN 플러스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/MBN%20%ED%94%8C%EB%9F%AC%EC%8A%A4-playlist.m3u8
+#EXTINF:-1 tvg-name="평생" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png",평생
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/LIFETIME-playlist.m3u8
+#EXTINF:-1 tvg-name="중화TV" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png",중화TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%EC%A4%91%ED%99%94TV-playlist.m3u8
+#EXTINF:-1 tvg-name="히스토리" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png",히스토리
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%ED%9E%88%EC%8A%A4%ED%86%A0%EB%A6%AC-playlist.m3u8
+#EXTINF:-1 tvg-name="국회방송(NATV)" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png",국회방송(NATV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%EA%B5%AD%ED%9A%8C%EB%B0%A9%EC%86%A1(NATV)-playlist.m3u8
+#EXTINF:-1 tvg-name="ANIBOX" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png",ANIBOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
+#EXTINF:-1 tvg-name="애니맥스" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png",애니맥스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%EC%95%A0%EB%8B%88%EB%A7%A5%EC%8A%A4-playlist.m3u8
+#EXTINF:-1 tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png",투니버스
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://backup.760515.xyz/playlist/%ED%88%AC%EB%8B%88%EB%B2%84%EC%8A%A4-playlist.m3u8
+#EXTINF:-1 tvg-name="아리랑TV",아리랑TV
+https://epg.pw/stream/f71b00bffdc25476502479870351e7f801879a9b7bbce6bc77332b7f8b0dbd7a.m3u8
+#EXTINF:-1 tvg-name="TBSTV",TBSTV
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="ABN" tvg-logo="https://backup.760515.xyz/logo/ABN.png",ABN
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-name="농협TV" tvg-logo="https://backup.760515.xyz/logo/농협TV.png",농협TV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
+#EXTINF:-1 tvg-name="국민방송" tvg-logo="https://backup.760515.xyz/logo/국민방송.png",국민방송
+https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="방송대학TV" tvg-logo="https://backup.760515.xyz/logo/방송대학TV.png",방송대학TV
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-name="한국영화1",한국영화1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+#EXTINF:-1 tvg-name="한국영화2",한국영화2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+#EXTINF:-1 tvg-name="한국영화3",한국영화3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 #EXTINF:-1 channel-id="KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-chno="705" tvg-name="Animax 요리왕 비룡 더 마스터" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20260422T013525SQUARE.png",Animax 요리왕 비룡 더 마스터
 https://jmp2.uk/stvp-KRBC3200001VC
 #EXTINF:-1 channel-id="KRBB500044GP" tvg-id="KRBB500044GP" tvg-chno="794" tvg-name="Bloomberg Originals" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500044GP_20260422T012617SQUARE.png",Bloomberg Originals
@@ -275,7 +374,7 @@ https://jmp2.uk/stvp-KR900001U5
 https://jmp2.uk/stvp-KR4100001LW
 #EXTINF:-1 channel-id="KR7000044K" tvg-id="KR7000044K" tvg-chno="672" tvg-name="서울경제TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR7000044K_20260422T014043SQUARE.png",서울경제TV
 https://jmp2.uk/stvp-KR7000044K
-#EXTINF:-1 channel-id="KRBC3200013UR" tvg-id="KRBC3200013UR" tvg-chno="518" tvg-name="tvN 응답하라 전 시즌 모아보기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200013UR_20261006T042957SQUARE.png",tvN 응답하라 전 시즌 모아보기
+#EXTINF:-1 channel-id="KR44000010Y" tvg-id="KR44000010Y" tvg-chno="822" tvg-name="스크린골프존" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20260422T014046SQUARE.png",스크린골프존
 https://jmp2.uk/stvp-KR44000010Y
 #EXTINF:-1 channel-id="KR1200002QR" tvg-id="KR1200002QR" tvg-chno="632" tvg-name="신병 1,2 몰아보기" tvg-logo="
 https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR1200002QR_20260805T003646SQUARE.png"
@@ -309,13 +408,13 @@ https://jmp2.uk/stvp-KR5000002QW
 https://jmp2.uk/stvp-KRBC4100001LY
 #EXTINF:-1 channel-id="KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-chno="597" tvg-name="채널A 이제 만나러 갑니다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20260422T014105SQUARE.png",채널A 이제 만나러 갑니다
 https://jmp2.uk/stvp-KRBC4100005N5
-#EXTINF:-1 channel-id="KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="529" tvg-name="채널십오야" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261020T053333SQUARE.png", 채널십오야"
+#EXTINF:-1 channel-id="KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="529" tvg-name="채널십오야" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261020T053333SQUARE.png",채널십오야
 https://jmp2.uk/stvp-KRBC3200018FU
 #EXTINF:-1 channel-id="KRBB5000364M" tvg-id="KRBB5000364M" tvg-chno="815" tvg-name="초록뱀미디어 K-STAR 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20260422T014108SQUARE.png",초록뱀미디어 K-STAR 골프
 https://jmp2.uk/stvp-KRBB5000364M
 #EXTINF:-1 channel-id="KR3200003RR" tvg-id="KR3200003RR" tvg-chno="798" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png",코난 오브라이언 쇼
 https://jmp2.uk/stvp-KR3200003RR
-#EXTINF:-1 채널-id="KRBB500035VF" tvg-id="KRBB500035VF" tvg-chno="711" tvg-name="코비TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20260422T014114SQUARE.png", 코비TV
+#EXTINF:-1 channel-id="KRBB500035VF" tvg-id="KRBB500035VF" tvg-chno="711" tvg-name="코코비TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20260422T014114SQUARE.png",코코비TV
 https://jmp2.uk/stvp-KRBB500035VF
 #EXTINF:-1 channel-id="KRBC32000200B" tvg-id="KRBC32000200B" tvg-chno="703" tvg-name="투니버스 명탐정 코난 (자막)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20260422T014116SQUARE.png",투니버스 명탐정 코난 (자막)
 https://jmp2.uk/stvp-KRBC32000200B
@@ -323,13 +422,13 @@ https://jmp2.uk/stvp-KRBC32000200B
 https://jmp2.uk/stvp-KR10000017U
 #EXTINF:-1 channel-id="KRBC3200017JQ" tvg-id="KRBC3200017JQ" tvg-chno="706" tvg-name="투니버스 흔한남매의 안흔한일기" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20260422T014121SQUARE.png",투니버스 흔한남매의 안흔한일기
 https://jmp2.uk/stvp-KRBC3200017JQ
-#EXTINF:-1 channel-id="KR480000234" tvg-id="KR480000234" tvg-chno="600" tvg-name="명사"tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR480000234_20260422T014124SQUARE.png",명사"
+#EXTINF:-1 channel-id="KR480000234" tvg-id="KR480000234" tvg-chno="600" tvg-name="할명수" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR480000234_20260422T014124SQUARE.png",할명수
 https://jmp2.uk/stvp-KR480000234
-#EXTINF:-1 channel-id="KR200000503" tvg-id="KR200000503" tvg-chno="638" tvg-name="행복틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR200000503_20260623T003414SQUARE.png", 행복배틀
+#EXTINF:-1 channel-id="KR200000503" tvg-id="KR200000503" tvg-chno="638" tvg-name="행복배틀" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR200000503_20260623T003414SQUARE.png",행복배틀
 https://jmp2.uk/stvp-KR200000503
-#EXTINF:-1 channel-id="KR44000010Y" tvg-id="KR44000010Y" tvg-chno="822" tvg-name="스크린골프존" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR44000010Y_20260422T014046SQUARE.png",스크린골프존
+#EXTINF:-1 channel-id="KRAH1801500A" tvg-id="KRAH1801500A" tvg-chno="763" tvg-name="현대홈쇼핑" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH1801500A_20260422T013224SQUARE.png",현대홈쇼핑
 https://jmp2.uk/stvp-KRAH1801500A
-#EXTINF:-1 channel-id="KRAH4602000A" tvg-id="KRAH4602000A" tvg-chno="764" tvg-name="현대홈쇼핑+샵" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20260422T013227SQUARE.png", 현대홈쇼핑+샵
+#EXTINF:-1 channel-id="KRAH4602000A" tvg-id="KRAH4602000A" tvg-chno="764" tvg-name="현대홈쇼핑+Shop" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRAH4602000A_20260422T013227SQUARE.png",현대홈쇼핑+Shop
 https://jmp2.uk/stvp-KRAH4602000A
-#EXTINF:-1 channel-id="KR260000274" tvg-id="KR260000274" tvg-chno="820" tvg-name="힙제뜸" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR260000274_20260812T044706SQUARE.png",힙제뜸
+#EXTINF:-1 channel-id="KR260000274" tvg-id="KR260000274" tvg-chno="820" tvg-name="힙으뜸" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR260000274_20260812T044706SQUARE.png",힙으뜸
 https://jmp2.uk/stvp-KR260000274
