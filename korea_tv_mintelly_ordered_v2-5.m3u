@@ -5,8 +5,6 @@ http://koreatv.dothome.co.kr/kbs1.php
 http://koreatv.dothome.co.kr/kbs2.php
 #EXTINF:-1 tvg-id="KNN TV(SBS부산).kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/500px-KNN_logo.svg.png",KNN TV(SBS부산)
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
-#EXTINF:-1 tvg-name="SBS스포츠" tvg-logo="https://backup.760515.xyz/logo/SBS스포츠.png",SBS스포츠
-https://tvlive.sbs.co.kr/sbsespn/sbsespn1.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTM5MjMyMTgsInBhdGgiOiIvc2JzZXNwbjEuc3RyZWFtIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiIzNGRlZmMzNy1jNjRmLTQ3NjktODc0YS1iNDhjODEyZjM3NjgiLCJpYXQiOjE3OTM5MTYwMTh9.3q3GYAv-kARm2NNT-cumsI4fF8fALJq6R-DVVEUeKtU
 #EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Munhwa_Broadcasting_Corporation.svg/500px-Munhwa_Broadcasting_Corporation.svg.png",MBC TV
 http://koreatv.dothome.co.kr/mbc.php
 #EXTINF:-1 tvg-name="MBCNET" tvg-logo="https://backup.760515.xyz/logo/MBCNET.png",MBCNET
@@ -402,19 +400,19 @@ https://jmp2.uk/stvp-KR16000047N
 https://jmp2.uk/stvp-KR3200005TI
 #EXTINF:-1 channel-id="KR400049VH" tvg-id="KR400049VH" tvg-chno="508" tvg-name="지구마불 세계여행" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR400049VH_20261006T043025SQUARE.png",지구마불 세계여행
 https://jmp2.uk/stvp-KR400049VH
-#EXTINF:-1 channel-id="KR5000002QW" tvg-id="KR5000002QW" tvg-chno="509" tvg-name="쯔양" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5000002QW_20261006T043032SQUARE.png",쯔양
+#EXTINF:-1 채널-id="KR5000002QW" tvg-id="KR5000002QW" tvg-chno="509" tvg-name="쯔쯔양" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR5000002QW_20261006T043032SQUARE.png",쯔양"
 https://jmp2.uk/stvp-KR5000002QW
 #EXTINF:-1 channel-id="KRBC4100001LY" tvg-id="KRBC4100001LY" tvg-chno="507" tvg-name="채널A 나만 믿고 따라와 도시어부" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100001LY_20261006T043043SQUARE.png",채널A 나만 믿고 따라와 도시어부
 https://jmp2.uk/stvp-KRBC4100001LY
 #EXTINF:-1 channel-id="KRBC4100005N5" tvg-id="KRBC4100005N5" tvg-chno="597" tvg-name="채널A 이제 만나러 갑니다" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC4100005N5_20260422T014105SQUARE.png",채널A 이제 만나러 갑니다
 https://jmp2.uk/stvp-KRBC4100005N5
-#EXTINF:-1 channel-id="KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="529" tvg-name="채널십오야" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261020T053333SQUARE.png",채널십오야
+#EXTINF:-1 channel-id="KRBC3200018FU" tvg-id="KRBC3200018FU" tvg-chno="529" tvg-name="채널십오야" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20261020T053333SQUARE.png", 채널십오야"
 https://jmp2.uk/stvp-KRBC3200018FU
 #EXTINF:-1 channel-id="KRBB5000364M" tvg-id="KRBB5000364M" tvg-chno="815" tvg-name="초록뱀미디어 K-STAR 골프" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000364M_20260422T014108SQUARE.png",초록뱀미디어 K-STAR 골프
 https://jmp2.uk/stvp-KRBB5000364M
 #EXTINF:-1 channel-id="KR3200003RR" tvg-id="KR3200003RR" tvg-chno="798" tvg-name="코난 오브라이언 쇼" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KR3200003RR_20260422T014111SQUARE.png",코난 오브라이언 쇼
 https://jmp2.uk/stvp-KR3200003RR
-#EXTINF:-1 channel-id="KRBB500035VF" tvg-id="KRBB500035VF" tvg-chno="711" tvg-name="코코비TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20260422T014114SQUARE.png",코코비TV
+#EXTINF:-1 채널-id="KRBB500035VF" tvg-id="KRBB500035VF" tvg-chno="711" tvg-name="코비TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB500035VF_20260422T014114SQUARE.png", 코비TV
 https://jmp2.uk/stvp-KRBB500035VF
 #EXTINF:-1 channel-id="KRBC32000200B" tvg-id="KRBC32000200B" tvg-chno="703" tvg-name="투니버스 명탐정 코난 (자막)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC32000200B_20260422T014116SQUARE.png",투니버스 명탐정 코난 (자막)
 https://jmp2.uk/stvp-KRBC32000200B
